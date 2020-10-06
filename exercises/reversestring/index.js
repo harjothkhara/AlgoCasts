@@ -15,7 +15,7 @@ function reverse(str) {
   return newstr;
 }
 
-reverse('asdf');
+reverse('asdf'); // for debugger
 
 // function reverse(str) {
 //  return str.split('').reverse().join('')
